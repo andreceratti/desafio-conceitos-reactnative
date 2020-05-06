@@ -1,4 +1,7 @@
-![RocketSeat Pixelart](https://i.imgur.com/PvS86IK.png)
+<p align="center">
+  <img src="https://i.imgur.com/Wh3jjrl.png" alt="André Ceratti da Rocha" />
+</p>
+
 # Desafio Conceitos React Native
 
 Terceiro desafio da primeira semana GoStack da RocketSeat. Nele foi criado um aplicativo simples interagindo com backend criado no primeiro desafio.
